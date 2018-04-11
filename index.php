@@ -1,3 +1,4 @@
+<html>
 <?php
 /**
  * Created by PhpStorm.
@@ -9,3 +10,5 @@
 phpinfo();
 
 ?>
+
+</html>
